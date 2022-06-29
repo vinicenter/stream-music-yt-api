@@ -1,0 +1,13 @@
+{
+  "author": "vini",
+  "version": "1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuidv4": "^6.2.13",
+    "youtube-mp3-downloader": "^0.7.10",
+    "ytdl-core": "^4.11.0"
+  }
+}
